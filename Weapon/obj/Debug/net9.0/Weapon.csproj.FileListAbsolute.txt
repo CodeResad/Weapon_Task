@@ -1,0 +1,14 @@
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/bin/Debug/net9.0/Weapon
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/bin/Debug/net9.0/Weapon.deps.json
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/bin/Debug/net9.0/Weapon.runtimeconfig.json
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/bin/Debug/net9.0/Weapon.dll
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/bin/Debug/net9.0/Weapon.pdb
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.AssemblyInfoInputs.cache
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.AssemblyInfo.cs
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.csproj.CoreCompileInputs.cache
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.dll
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/refint/Weapon.dll
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.pdb
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/Weapon.genruntimeconfig.cache
+/Users/rashadjafarzade/RiderProjects/Weapon/Weapon/obj/Debug/net9.0/ref/Weapon.dll
