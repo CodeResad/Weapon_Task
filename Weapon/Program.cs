@@ -20,7 +20,7 @@ class Program
 
             switch (num)
             {
-                case 0: Console.WriteLine($"Magazine: {ak47.magazine} bullets, {ak47.bullets} bullets, Mode: {(ak47.isAutomatic ? "Automatic" : "Single Shot")}");
+                case 0: Console.WriteLine($"Magazine: {ak47.Magazine} bullets, {ak47.Bullets} bullets, Mode: {(ak47.IsAutomatic ? "Automatic" : "Single Shot")}");
                     break;
                 case 1: ak47.Shoot();
                     break;
